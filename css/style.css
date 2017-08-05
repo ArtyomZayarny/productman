@@ -75,7 +75,7 @@ Main
 }
 .image {
 	text-align: center;
-	background: url(/img/shine.png)center no-repeat;
+	background: url(../img/shine.png)center no-repeat;
 	background-size: cover;
 }
 h1 {
